@@ -7,4 +7,4 @@ Creating a new branch is quick and simple.
 Git supports --no-ff merge.
 Let's try --no-ff merge.
 Let's try --no-ff merge again.
-
+Try git stash.
